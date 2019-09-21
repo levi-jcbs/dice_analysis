@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-#   ( GERMAN RELEASE 1.0.0 )
+#   ( GERMAN RELEASE 1.0.0 ) 
 #
 
 
