@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-#   ( ENGLISH RELEASE 1.0.0 )
+#   ( ENGLISH RELEASE 1.0.0 ) 
 #
 
 
