@@ -5,5 +5,6 @@ This script rolls up to 9999 times and analyzes the result.
 
 
 ## Instruction
-![Type a number]()
+![](https://raw.githubusercontent.com/jcobs-engine/dice_analysis/master/instruction_1.png)
+
 After starting skript, you can enter a number between 400 and 9999.
