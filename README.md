@@ -25,7 +25,7 @@ Press Enter again, so he added a table that shows the differences between the co
 
 ![](https://raw.githubusercontent.com/jcobs-engine/dice_analysis/master/instruction_5.png)
 
-Enter again shows exactly what the result of rolls was. (The law of big numbers)
+Enter again shows how exactly the result of rolls was. (The law of big numbers)
 
 ![](https://raw.githubusercontent.com/jcobs-engine/dice_analysis/master/instruction_6.png)
 
@@ -35,5 +35,5 @@ Pressing Enter again displays a graph showing the distribution of results.
 
 Enter 'exit' to exit the script.
 
-## More
+# More
 I hope my script was useful. For bugs, ideas or extensions, or changes, write me like.
