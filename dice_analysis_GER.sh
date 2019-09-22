@@ -148,7 +148,7 @@ while [ 0 ]; do
     echo -en "\033[0;1;31m"
     read versuche
     
-    if [ "$versuche" -gt 399 ] && [ "$versuche" -lt 1000 ]; then
+    if [ "$versuche" -gt 399 ] && [ "$versuche" -lt 10000 ]; then
 	
 	zahler=$versuche
 	versuche=$(( $versuche * 1000 ))
