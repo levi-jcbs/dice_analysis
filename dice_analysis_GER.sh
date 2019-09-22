@@ -722,7 +722,7 @@ while [ 0 ]; do
 	done
 	
 	sleep 1
-	
+	tput cnorm
 	exit
 	
     fi
